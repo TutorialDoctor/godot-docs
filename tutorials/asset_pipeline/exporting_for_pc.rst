@@ -14,4 +14,4 @@ bundled with a specially optimized binary that is smaller, faster and
 lacks tools and debugger.
 
 Optionally, the files can be bundled inside the executable, though this
-does not always works properly.
+does not always work properly.
